@@ -1,0 +1,31 @@
+
+P
+ src/test/java/core/BasePage.java,1\b\1b844ed60c1b19bf1607242de53c977b64df2bc0
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+U
+%src/test/java/core/DriverFactory.java,6\5\657ef2fdbafcfeb97ae0d62e9c2e25f8d728ac6c
+T
+$src/test/java/cenarios/Login.feature,9\a\9aa30ada0524f43045fad025b4664a23544be25f
+K
+src/test/java/core/DSL.java,4\9\494c818de7ff247ee0ade69c9295d2d4293a6a60
+R
+"src/test/java/pages/LoginPage.java,2\f\2febc867dad266b12f3cf09596e572e0dcf37dbf
+Z
+*src/test/java/cenarios/Funcionario.feature,2\e\2e22b976508eee34a60f95604a6f87843921f164
+X
+(src/test/java/pages/FuncionarioPage.java,6\a\6ae54394140840150adc8584167ad3c80c3a75c7
+N
+src/test/java/tests/Login.java,2\f\2f8e3d264bc67ac0cd97a8fe5f5d9ea4652f546a
+R
+"src/test/java/core/CreateData.java,6\2\6208fadbae89e08bc43884cb34c6023680b4c116
+Q
+!src/test/java/tests/Cadastro.java,e\d\eda56747448cab5f3c601f9ab161c6513d5ce70b
+U
+%src/test/java/pages/CadastroPage.java,a\5\a576a066a534e9fc7d88021ed4e77bca8194fdb2
+W
+'src/test/java/cenarios/Cadastro.feature,a\1\a1c64e495df61981f71b4c45f94053fa2c4ace81
+P
+ src/test/java/core/Cenarios.java,8\6\86a87dad3a5a2a87733d2f8fb52108a7bebf971d
+T
+$src/test/java/tests/Funcionario.java,1\4\14c381e9c8990276ce2c9cbbadca3cb9be1e4bf9

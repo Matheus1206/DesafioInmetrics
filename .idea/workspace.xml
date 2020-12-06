@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a49c1857-46f7-416e-93f2-0ae28646c908" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l1UK0jCL9yf7CXqRGeNMLBOgJ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AutomacaoInmetrics\src\test\java\cenarios" />
+      <recent name="C:\AutomacaoInmetrics\libs" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="core" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AutomacaoInmetrics\prints\Login" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: Login">
+    <configuration name="Feature: Funcionario" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/cenarios/Funcionario.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="AutomacaoInmetricsWeb" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Funcionario" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/cenarios/Login.feature" />
+      <option name="GLUE" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="AutomacaoInmetricsWeb" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login com Sucesso" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/cenarios/Login.feature" />
+      <option name="GLUE" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="AutomacaoInmetricsWeb" />
+      <option name="NAME_FILTER" value="^Login com Sucesso$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login com Sucesso$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login com Sucesso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Pesquisa de funcionario presente na base" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/cenarios/Funcionario.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="AutomacaoInmetricsWeb" />
+      <option name="NAME_FILTER" value="^Pesquisa de funcionario presente na base$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Pesquisa de funcionario presente na base$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Pesquisa de funcionario presente na base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Pesquisar Funcionario" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/cenarios/Funcionario.feature" />
+      <option name="GLUE" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="AutomacaoInmetricsWeb" />
+      <option name="NAME_FILTER" value="^Pesquisar Funcionario$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Pesquisar Funcionario$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Pesquisar Funcionario" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: Login" />
+        <item itemvalue="Cucumber java.Scenario: Pesquisa de funcionario presente na base" />
+        <item itemvalue="Cucumber java.Scenario: Login com Sucesso" />
+        <item itemvalue="Cucumber java.Feature: Funcionario" />
+        <item itemvalue="Cucumber java.Scenario: Pesquisar Funcionario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a49c1857-46f7-416e-93f2-0ae28646c908" name="Default Changelist" comment="" />
+      <created>1606764023566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606764023566</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="188" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606939760403">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="436" y="188" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1606939760403" />
+    <state x="1828" y="140" key="FileChooserDialogImpl" timestamp="1606778922792">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1828" y="140" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1606778922792" />
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1607217105957">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1317" height="129" key="GridCell.Tab.0.bottom/0.0.1360.768@0.0.1360.768" timestamp="1607199372748" />
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1607206621054" />
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1607217105957" />
+    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1607217105956">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1317" height="129" key="GridCell.Tab.0.center/0.0.1360.768@0.0.1360.768" timestamp="1607199372748" />
+    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1607206621054" />
+    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1607217105956" />
+    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1607217105956">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1317" height="129" key="GridCell.Tab.0.left/0.0.1360.768@0.0.1360.768" timestamp="1607199372748" />
+    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1607206621054" />
+    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1607217105956" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1607217105956">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1317" height="129" key="GridCell.Tab.0.right/0.0.1360.768@0.0.1360.768" timestamp="1607199372748" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1607206621054" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1607217105956" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1607209532980">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1607209532980" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1607209532979">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1607209532979" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1607209532979">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1607209532979" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1607209532980">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1607209532980" />
+    <state x="1550" y="0" key="SettingsEditor" timestamp="1607216780459">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1550" y="0" key="SettingsEditor/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1607216780459" />
+    <state x="1366" y="0" width="607" height="768" key="find.popup" timestamp="1607211570748">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1366" y="0" width="607" height="768" key="find.popup/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1607211570748" />
+    <state x="1431" y="80" key="new project wizard" timestamp="1607210475654">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1431" y="80" key="new project wizard/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1607210475654" />
+    <state x="1801" y="306" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1607211271808">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="433" y="306" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1360.768@0.0.1360.768" timestamp="1607196682838" />
+    <state x="1801" y="306" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1607211271808" />
+  </component>
+</project>
