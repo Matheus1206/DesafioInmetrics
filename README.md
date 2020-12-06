@@ -12,5 +12,5 @@ Repositório criado com o objetivo de facilitar o contato com a Inmetrics.
   
   <p>O objetivo foi criar um framework de testes e auxiliar a automação, os prints serão armazenados na pasta <b>"prints"</b> onde basta somente chamar o método print que está presente na DSL, as classes presentes no pacote <b>pages</b> funcionam como um repositório de objetos para determinado fluxo e podem ser utilizadas em outros fluxos, somente sendo necessário criar a instância na classe de teste.</p>
   <p>Foi criada também uma classe para facilitar a criação de massas de testes chamada de CreateData, ela contém 3 métodos que auxiliam a escrita para possíveis testes, o método <b>criarCpf</b> foi retirado do <a href="https://www.guj.com.br/t/gerador-de-cpf-cnpj-e-rg/208421/3">link gerador de cpf</a> já os outros 2 foram de criação minha.</p>
-  <p>No projeto também encontra-se uma ENUM que são referentes as possibilidades de pastas para o armazenamento dos prints, fazendo com que o tester não erre na hore de nomear essas pastas.</p>
+  <p>No projeto também encontra-se uma ENUM que são referentes as possibilidades de pastas para o armazenamento dos prints, fazendo com que o tester não erre na hora de nomear essas pastas.</p>
   
